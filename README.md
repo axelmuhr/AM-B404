@@ -44,10 +44,10 @@ The SRAMs are 5V **512K×8** parts in a wide SOP32 package. They aren't cheap ei
 
 There are two solder jumpers on the bottom side of the PCB:
 
-- **Jumper A – "25 / 20"**: selects 25 or 20 MHz
-- **Jumper B – "30 / 20 or 25"**: selects between 30 MHz and the 20/25 MHz range
+- **Jumper SJ1 – "25 / 20"**: selects 25 or 20 MHz
+- **Jumper SJ2 – "30 / 20 or 25"**: selects between 30 MHz and the 20/25 MHz range
 
-| CPU clock | Jumper A | Jumper B   |
+| CPU clock | Jumper 1 | Jumper 2   |
 |-----------|----------|------------|
 | 20 MHz    | 20       | 20 or 25   |
 | 25 MHz    | 25       | 20 or 25   |
